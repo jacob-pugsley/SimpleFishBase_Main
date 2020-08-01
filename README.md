@@ -2,7 +2,7 @@
 
 This is a search engine for <a href="https://fishbase.org">FishBase</a>, a scientific database of fish species. The system was designed to be easier for aquarium owners to search than a research database, with an intuitive and simple interface and useful data. The front end uses Vue and Semantic UI.
 
-The front end of this project is in two repositories. <a href="https://github.com/jacob-pugsley/SimpleFishBase_Details">View the details page code</a>.
+The front end of this project is in two repositories. <a href="https://github.com/jacob-pugsley/SimpleFishBase_Details">View details page repository</a><br>
 <a href="https://github.com/jacob-pugsley/SimpleFishBase_Back">View back end repository</a>
 
 <h1><a href="https://jacob-pugsley.github.io/SimpleFishBase_Main/">Live Site</a></h1>
